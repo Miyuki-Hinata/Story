@@ -2,3 +2,8 @@
 Hello!
 hahaha
 i'm using VIM!!!!!!!!
+
+
+Aaaaa
+
+This is new message hi!
